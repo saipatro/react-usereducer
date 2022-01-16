@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-usereducer/static/css/main.073c9b0a.css",
+    "main.js": "/react-usereducer/static/js/main.0276eb76.js",
+    "static/js/787.95f60707.chunk.js": "/react-usereducer/static/js/787.95f60707.chunk.js",
+    "index.html": "/react-usereducer/index.html",
+    "main.073c9b0a.css.map": "/react-usereducer/static/css/main.073c9b0a.css.map",
+    "main.0276eb76.js.map": "/react-usereducer/static/js/main.0276eb76.js.map",
+    "787.95f60707.chunk.js.map": "/react-usereducer/static/js/787.95f60707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0276eb76.js"
+  ]
+}
